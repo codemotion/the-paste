@@ -1,0 +1,94 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Paste\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-02 08:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: include/ThePaste/Admin/Admin.php:49
+msgid "Copy & Paste"
+msgstr ""
+
+#: include/ThePaste/Admin/Admin.php:54
+msgid "Error pasting image data."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/mcguffin/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/the-paste/"
+msgstr ""
+
+#: include/ThePaste/Admin/Admin.php:52
+msgid "Image"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jörn Lund"
+msgstr ""
+
+#: include/ThePaste/Admin/Admin.php:53
+msgid "No image data pasted."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Paste Images in WordPress from many applications and upload them to the "
+"media library."
+msgstr ""
+
+#: include/template/pasteboard.php:9
+msgid "Paste some image Data from your clipboard"
+msgstr ""
+
+#: include/ThePaste/Admin/Admin.php:50
+msgid "Pasted"
+msgstr ""
+
+#: include/ThePaste/Admin/Admin.php:51
+msgid "Pasted into"
+msgstr ""
+
+#: include/ThePaste/Admin/Admin.php:47
+msgid "Snapshot"
+msgstr ""
+
+#: include/ThePaste/Admin/Admin.php:48
+msgid "Take Snapshot"
+msgstr ""
+
+#. Name of the plugin
+msgid "The Paste"
+msgstr ""
+
+#: include/template/uploader.php:15
+msgid "Title"
+msgstr ""
+
+#: include/template/uploader.php:12
+msgid "Try again"
+msgstr ""
+
+#: include/template/uploader.php:28
+msgid "Upload"
+msgstr ""
+
+#: include/ThePaste/Admin/Admin.php:56
+msgid "Upload image"
+msgstr ""
+
+#: include/ThePaste/Admin/Admin.php:55
+msgid "Upload pasted images"
+msgstr ""
