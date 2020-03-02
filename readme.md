@@ -1,3 +1,7 @@
+# Fixes
+1. Add an ability to grab post title as image name.
+2. Set JPG as default format.
+
 === The Paste ===
 Contributors: podpirate
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F8NKC6TCASUXE
