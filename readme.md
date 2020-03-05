@@ -1,4 +1,9 @@
-=== The Paste ===
+# Fixes
+1. Add an ability to grab post title as image name.
+2. Set JPG as default format.
+
+# The Paste
+
 Contributors: podpirate
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F8NKC6TCASUXE
 Tags: paste, clipboard, image, editor, media
@@ -11,7 +16,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Paste Images in WordPress from many applications and upload them to the media library.
 
-== Description ==
+# Description
 
 Speed up your workflow by pasting images directly to the WordPress text editor
 and upload them to the media library.
@@ -30,40 +35,40 @@ The most recent Desktop versions of Chrome, Firefox, IE, Edge and Safari are sup
 [The paste at GitHub](https://github.com/mcguffin/the-paste)
 
 
-== Installation ==
+# Installation
 
 Follow the standard [WordPress plugin installation procedere](https://codex.wordpress.org/Managing_Plugins).
 
-== Screenshots ==
+# Screenshots 
 
 1. Pasting into rich text editor. You can either upload the image immediately or do so later.
 2. Paste into media library ...
 3. ... and choose filename and format before you upload.
 
-== Changelog ==
+# Changelog
 
-= 1.0.5 =
+## 1.0.5
 * Prevent Editor Crashes: Only embed images up to 262144 px, upload otherwise
 
-= 1.0.4 =
+## 1.0.4
 * Support Text Widget
 * Better Media Titles
 
-= 1.0.3 =
+## 1.0.3
 * Fix JS Error in TextWidget
 
-= 1.0.2 =
+## 1.0.2
 * Performance improvements
 * Add Textdomain to plugin header
 * Remove unnecessary settings
 
-= 1.0.1 =
+## 1.0.1
 * Update plugin URL
 * Fix double pasting
 
-= 1.0.0 =
+## 1.0.0
 * Initial release
 
-== Upgrade Notice ==
+## Upgrade Notice
 
 Nothing noteworty here so far...
